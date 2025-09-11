@@ -1,7 +1,7 @@
 # 👋 Hi, I'm V Hariprasad
 
 🎓 Computer Science Student @ KMIT | 💻 Full Stack Developer | ☁️ Cloud & AI Enthusiast  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hi,+I'm+V+Hariprasad;Full+Stack+Developer+%7C+KMIT+Student;Cloud+%26+AI+Enthusiast)](https://readme-typing-svg.demolab.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=V+Hariprasad)](https://readme-typing-svg.demolab.com/)
 
 
 ---
