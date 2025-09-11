@@ -56,9 +56,6 @@
 ## 🎖️ Certifications & Achievements
 
 - Google Cloud Arcade Facilitator – Ranger Tier (44 Skill Badges, 16 Labs)
-- Java Fundamentals (Scaler Topics)
-- Prompt Engineering (AlgoPrep)
-- EAMCET Rank: 5264
 
 ---
 
