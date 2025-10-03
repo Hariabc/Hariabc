@@ -34,7 +34,7 @@
 
 ---
 
-## 🎖️ Certifications & Achievements
+## 🎖️ Achievements
 
 - Google Cloud Arcade Facilitator – Ranger Tier (44 Skill Badges, 16 Labs)
 
