@@ -31,25 +31,6 @@
 ![OOP](https://img.shields.io/badge/OOP-6320EE?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-009688?style=for-the-badge)
 
----
-
-## 🚀 Featured Projects
-
-### [EasyLearn – Learning Platform](#)
-> *React, Node.js, MongoDB, Tailwind*  
-• Modern learning solution with login, course navigation, and dynamic content  
-• AI-powered notes/quizzes (OpenRouter API), daily streak & reminders  
-• Focused on helping students build consistent study habits
-
-### [CSS Design Tools](#)
-> *HTML, CSS, JavaScript, React.js*  
-• Gradient generator, glassmorphism builder, and color palette creator  
-• Clean UI, real-time interactive previews & code output
-
-### [E-Portal for Case Management](#)
-> *MERN Stack (MongoDB, Express.js, React.js, Node.js)*  
-• Secure web system for case tracking and resolution  
-• Authentication, role-based access, and optimized backend/frontend
 
 ---
 
